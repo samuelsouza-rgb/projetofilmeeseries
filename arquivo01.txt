@@ -1,0 +1,11 @@
+RELAT”RIO DE FILMES/S…RIES
+
+COD  TÕTULO                         G NERO               ANO   STATUS
+--------------------------------------------------------------------------
+001 casa                           terror               2012  EXCLUIDO
+002 monstros                       terror               2003  EXCLUIDO
+003 amor                           romance              2008  EXCLUIDO
+004 flor                           romance              2020  EXCLUIDO
+005 coraline                       terror               2003  ATIVO
+006 casa                           terror               2006  ATIVO
+007 la casa de papel               a√ß√£o               2019  ATIVO
